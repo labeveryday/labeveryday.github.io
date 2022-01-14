@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Web Development on Welcome!</title>
+    <link>https://labeveryday.github.io/tags/web-development/</link>
+    <description>Recent content in Web Development on Welcome!</description>
+    <image>
+      <url>https://labeveryday.github.io/tothecloudwego2.png</url>
+      <link>https://labeveryday.github.io/tothecloudwego2.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 08 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://labeveryday.github.io/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Static Sites Have Changed My Life</title>
+      <link>https://labeveryday.github.io/posts/static-sites-have-changed-my-life/</link>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://labeveryday.github.io/posts/static-sites-have-changed-my-life/</guid>
+      <description>Keep it simple!</description>
+    </item>
+    
+  </channel>
+</rss>

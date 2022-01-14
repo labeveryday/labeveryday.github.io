@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Welcome!</title>
+    <link>https://labeveryday.github.io/posts/</link>
+    <description>Recent content in Posts on Welcome!</description>
+    <image>
+      <url>https://labeveryday.github.io/tothecloudwego2.png</url>
+      <link>https://labeveryday.github.io/tothecloudwego2.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 13 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://labeveryday.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Back to the Basics #LabEveryday</title>
+      <link>https://labeveryday.github.io/posts/how-to-labeveryday-in-2022/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://labeveryday.github.io/posts/how-to-labeveryday-in-2022/</guid>
+      <description>People play day trader with their life. And expect long term gains. How do I know this? Because I have been there.
+Lately I have been working on learning a new job, losing weight, raising my kids, and spending time with my wife. Everything I listed it important. But has made it challenging to prepare for the AWS Solutions Architect certification. So, rather than complain. I thought back to my core principle on how to be successful in anything #LabEveryday.</description>
+    </item>
+    
+    <item>
+      <title>How I Passed the AWS Cloud Practitioner Exam in a Week</title>
+      <link>https://labeveryday.github.io/posts/how-i-passed-the-aws-cloud-practitioner-exam-in-a-week/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://labeveryday.github.io/posts/how-i-passed-the-aws-cloud-practitioner-exam-in-a-week/</guid>
+      <description>Over the pass 4 years I have used certifications to elevate my career and skills. They have helped me to get opportunities that I use to only dream about. Not only that, but they have boosted my income to levels that I never thought that I could reach in tech.
+But don&amp;rsquo;t get it twisted! Not every certification journey I have had has not been all roses and Hennessey. Yo boy has failed A LOT!</description>
+    </item>
+    
+    <item>
+      <title>Static Sites Have Changed My Life</title>
+      <link>https://labeveryday.github.io/posts/static-sites-have-changed-my-life/</link>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://labeveryday.github.io/posts/static-sites-have-changed-my-life/</guid>
+      <description>Keep it simple!</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://labeveryday.github.io/posts/first-post/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://labeveryday.github.io/posts/first-post/</guid>
+      <description>&amp;#34;Be like a postage stamp, stick to it until you get there.&amp;#34; -- Josh Billings</description>
+    </item>
+    
+  </channel>
+</rss>

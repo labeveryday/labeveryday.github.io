@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AWS on Welcome!</title>
+    <link>https://labeveryday.github.io/tags/aws/</link>
+    <description>Recent content in AWS on Welcome!</description>
+    <image>
+      <url>https://labeveryday.github.io/tothecloudwego2.png</url>
+      <link>https://labeveryday.github.io/tothecloudwego2.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 09 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://labeveryday.github.io/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Passed the AWS Cloud Practitioner Exam in a Week</title>
+      <link>https://labeveryday.github.io/posts/how-i-passed-the-aws-cloud-practitioner-exam-in-a-week/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://labeveryday.github.io/posts/how-i-passed-the-aws-cloud-practitioner-exam-in-a-week/</guid>
+      <description>Over the pass 4 years I have used certifications to elevate my career and skills. They have helped me to get opportunities that I use to only dream about. Not only that, but they have boosted my income to levels that I never thought that I could reach in tech.
+But don&amp;rsquo;t get it twisted! Not every certification journey I have had has not been all roses and Hennessey. Yo boy has failed A LOT!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Welcome!</title>
+    <link>https://labeveryday.github.io/tags/</link>
+    <description>Recent content in Tags on Welcome!</description>
+    <image>
+      <url>https://labeveryday.github.io/tothecloudwego2.png</url>
+      <link>https://labeveryday.github.io/tothecloudwego2.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 13 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://labeveryday.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Certifications</title>
+      <link>https://labeveryday.github.io/tags/certifications/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://labeveryday.github.io/tags/certifications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>labeveryday</title>
+      <link>https://labeveryday.github.io/tags/labeveryday/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://labeveryday.github.io/tags/labeveryday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>study tips</title>
+      <link>https://labeveryday.github.io/tags/study-tips/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://labeveryday.github.io/tags/study-tips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AWS</title>
+      <link>https://labeveryday.github.io/tags/aws/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://labeveryday.github.io/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud</title>
+      <link>https://labeveryday.github.io/tags/cloud/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://labeveryday.github.io/tags/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>https://labeveryday.github.io/tags/web-development/</link>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://labeveryday.github.io/tags/web-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inspiration</title>
+      <link>https://labeveryday.github.io/tags/inspiration/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://labeveryday.github.io/tags/inspiration/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
